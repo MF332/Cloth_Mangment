@@ -1,2 +1,2 @@
-# Cloth_Mangment
+# Cloth_Managment
 Test site
